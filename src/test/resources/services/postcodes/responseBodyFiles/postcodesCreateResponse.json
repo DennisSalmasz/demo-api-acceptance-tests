@@ -1,0 +1,52 @@
+{
+  "status": 200,
+  "result": [
+    {
+      "query": "CR9 2BY",
+      "result": {
+        "postcode": "CR9 2BY",
+        "quality": 1,
+        "eastings": 532444,
+        "northings": 166086,
+        "country": "England",
+        "nhs_ha": "London",
+        "longitude": -0.098363,
+        "latitude": 51.378385,
+        "european_electoral_region": "London",
+        "primary_care_trust": "Croydon",
+        "region": "London",
+        "lsoa": "Croydon 027C",
+        "msoa": "Croydon 027",
+        "incode": "2BY",
+        "outcode": "CR9",
+        "parliamentary_constituency": "Croydon West",
+        "parliamentary_constituency_2024": "Croydon West",
+        "admin_district": "Croydon",
+        "parish": "Croydon, unparished area",
+        "admin_county": null,
+        "date_of_introduction": "200602",
+        "admin_ward": "Fairfield",
+        "ced": null,
+        "ccg": "NHS South West London",
+        "nuts": "Croydon",
+        "pfa": "Metropolitan Police",
+        "codes": {
+          "admin_district": "E09000008",
+          "admin_county": "E99999999",
+          "admin_ward": "E05011468",
+          "parish": "E43000198",
+          "parliamentary_constituency": "E14001188",
+          "parliamentary_constituency_2024": "E14001188",
+          "ccg": "E38000245",
+          "ccg_id": "36L",
+          "ced": "E99999999",
+          "nuts": "TLI62",
+          "lsoa": "E01001045",
+          "msoa": "E02000220",
+          "lau2": "E09000008",
+          "pfa": "E23000001"
+        }
+      }
+    }
+  ]
+}
